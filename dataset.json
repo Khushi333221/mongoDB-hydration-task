@@ -1,0 +1,62 @@
+[
+  {
+    "userId": "U1",
+    "timestamp": ISODate("2025-05-27T08:30:00Z"),
+    "amount": 300
+  },
+  {
+    "userId": "U2",
+    "timestamp": ISODate("2025-05-27T10:45:00Z"),
+    "amount": 250
+  },
+  {
+    "userId": "U3",
+    "timestamp": ISODate("2025-05-28T07:10:00Z"),
+    "amount": 400
+  },
+  {
+    "userId": "U4",
+    "timestamp": ISODate("2025-05-28T12:15:00Z"),
+    "amount": 350
+  },
+  {
+    "userId": "U5",
+    "timestamp": ISODate("2025-05-28T17:00:00Z"),
+    "amount": 200
+  },
+  {
+    "userId": "U6",
+    "timestamp": ISODate("2025-05-29T09:00:00Z"),
+    "amount": 250
+  },
+  {
+    "userId": "U7",
+    "timestamp": ISODate("2025-05-30T06:45:00Z"),
+    "amount": 500
+  },
+  {
+    "userId": "U8",
+    "timestamp": ISODate("2025-05-30T18:30:00Z"),
+    "amount": 300
+  },
+  {
+    "userId": "U9",
+    "timestamp": ISODate("2025-06-01T11:00:00Z"),
+    "amount": 200
+  },
+  {
+    "userId": "U10",
+    "timestamp": ISODate("2025-06-02T09:30:00Z"),
+    "amount": 300
+  },
+  {
+    "userId": "U11",
+    "timestamp": ISODate("2025-06-02T13:45:00Z"),
+    "amount": 400
+  },
+  {
+    "userId": "U12",
+    "timestamp": ISODate("2025-06-03T08:00:00Z"),
+    "amount": 350
+  }
+]
